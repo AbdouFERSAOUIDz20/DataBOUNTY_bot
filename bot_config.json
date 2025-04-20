@@ -1,0 +1,13 @@
+{
+    "welcome_channel": 1362934728151400451,
+    "role_selector": {
+        "message_id": 1363181647436189867,
+        "channel_id": 1362934718718279681,
+        "participant_role_id": 1362934557304815678,
+        "organisateur_role_id": 1362934540493918268
+    },
+    "bot_activity": {
+        "type": "playing",
+        "text": "Welcome To DataBOUNTY"
+    }
+}
